@@ -1,4 +1,4 @@
-# Conference Presentations — Bhargav H. Rathod
+# Conference Presentations — Bhargav Rathod
 
 Public archive of talks delivered at security conferences. All materials are shared for educational and research purposes.
 
@@ -36,4 +36,4 @@ Example: `2025_BlackHat-MEA_Investigating-macOS-Ransomware.pdf`
 
 ## License
 
-© Bhargav H. Rathod. All rights reserved. Content may not be reproduced or redistributed without permission.
+© Bhargav Rathod. All rights reserved. Content may not be reproduced or redistributed without permission.
