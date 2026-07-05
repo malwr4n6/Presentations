@@ -17,12 +17,14 @@ Public archive of talks delivered at security conferences. All materials are sha
 | Conference | Title | Co-presenter | Slides |
 |---|---|---|---|
 | Black Hat MEA 2025 | Investigating macOS Ransomware | Rohit Mukherjee (Microsoft) | [PDF](2025/2025_BlackHat-MEA_Investigating-macOS-Ransomware.pdf) |
+| NullCon 2025 | macOS Lockdown Mode: A Forensic Deep Dive | — | [PDF](2025/2025_NullCon_macOS-Lockdown-Mode-Forensic-Deep-Dive.pdf) |
+| SANS DFIR Summit 2025 | macOS Lockdown Mode: A DFIR Odyssey | — | [PDF](2025/2025_SANS-DFIR-Summit_macOS-Lockdown-Mode-DFIR-Odyssey.pdf) |
 
 ### 2023
 
-| Conference | Title | Slides |
-|---|---|---|
-| SANS DFIR Summit 2023 | Investigating a WSA Endpoint | [PDF](2023/2023_SANS-DFIR-Summit_Investigating-WSA-Endpoint.pdf) |
+| Conference | Title | Co-presenter | Slides |
+|---|---|---|---|
+| SANS DFIR Summit 2023 | Investigating a WSA Endpoint | — | [PDF](2023/2023_SANS-DFIR-Summit_Investigating-WSA-Endpoint.pdf) |
 
 ---
 
