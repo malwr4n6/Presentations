@@ -1,4 +1,4 @@
-# Conference Presentations — Bhargav H. Rathod
+# Conference Presentations — Bhargav Rathod
 
 Public archive of talks delivered at security conferences. All materials are shared for educational and research purposes.
 
