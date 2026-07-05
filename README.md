@@ -20,6 +20,12 @@ Public archive of talks delivered at security conferences. All materials are sha
 | NullCon 2025 | macOS Lockdown Mode: A Forensic Deep Dive | — | [PDF](2025/2025_NullCon_macOS-Lockdown-Mode-Forensic-Deep-Dive.pdf) |
 | SANS DFIR Summit 2025 | macOS Lockdown Mode: A DFIR Odyssey | — | [PDF](2025/2025_SANS-DFIR-Summit_macOS-Lockdown-Mode-DFIR-Odyssey.pdf) |
 
+### 2024
+
+| Conference | Title | Co-presenter | Recording | Slides |
+|---|---|---|---|---|
+| BSides Ahmedabad 2024 | Crack Me If You Can: Exposing Fault Lines in Digital Forensic Software Security | — | [YouTube](https://www.youtube.com/watch?v=ycvw4QUEzWs) | [PDF](2024/2024_BSides-Ahmedabad_Crack-Me-If-You-Can-Exposing-Fault-Lines-in-Digital-Forensic-Software-Security.pdf) |
+
 ### 2023
 
 | Conference | Title | Co-presenter | Slides |
