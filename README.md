@@ -12,6 +12,12 @@ Public archive of talks delivered at security conferences. All materials are sha
 
 ## Presentations
 
+### 2025
+
+| Conference | Title | Co-presenter | Slides |
+|---|---|---|---|
+| Black Hat MEA 2025 | Investigating macOS Ransomware | Rohit Mukherjee (Microsoft) | [PDF](2025/2025_BlackHat-MEA_Investigating-macOS-Ransomware.pdf) |
+
 ### 2023
 
 | Conference | Title | Slides |
@@ -24,7 +30,7 @@ Public archive of talks delivered at security conferences. All materials are sha
 
 Files follow the format: `YYYY_<Conference>_<Talk-Title>.pdf`
 
-Example: `2024_BlackHat-Asia_macOS-ESF-Forensics.pdf`
+Example: `2025_BlackHat-MEA_Investigating-macOS-Ransomware.pdf`
 
 ---
 
