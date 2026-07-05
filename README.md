@@ -37,3 +37,11 @@ Public archive of talks delivered at security conferences. All materials are sha
 ## License
 
 © Bhargav Rathod. All rights reserved. Content may not be reproduced or redistributed without permission.
+
+If you reference or build upon this work, please cite it as:
+
+> Rathod, B. (Year). *Talk Title*. Conference Name. https://github.com/malwr4n6/Presentations
+
+Example:
+
+> Rathod, B. (2025). *macOS Lockdown Mode: A DFIR Odyssey*. SANS DFIR Summit 2025. https://github.com/malwr4n6/Presentations
