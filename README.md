@@ -19,6 +19,7 @@ Public archive of talks delivered at security conferences. All materials are sha
 | [Black Hat MEA 2025](https://blackhatmea.com/speaker/bhargav-rathod) | Investigating macOS Ransomware | Rohit Mukherjee (Microsoft) | — | [PDF](2025/2025_BlackHat-MEA_Investigating-macOS-Ransomware.pdf) |
 | [NullCon Goa 2025](https://nullcon.net/talk/macos-lockdown-mode-a-forensic-deep-dive/) | macOS Lockdown Mode: A Forensic Deep Dive | — | [YouTube](https://www.youtube.com/watch?v=UaNXEad-CPQ) | [PDF](2025/2025_NullCon_macOS-Lockdown-Mode-Forensic-Deep-Dive.pdf) |
 | [SANS DFIR Summit 2025](https://www.sans.org/presentations/macos-lockdown-mode) | macOS Lockdown Mode: A DFIR Odyssey | — | [YouTube](https://www.youtube.com/watch?v=qw50_vTUD5I) | [PDF](2025/2025_SANS-DFIR-Summit_macOS-Lockdown-Mode-DFIR-Odyssey.pdf) |
+| [DFRWS APAC 2025](https://dfrws.org/presentation/workshop-practical-macos-dfir/) | Workshop: Practical macOS DFIR | — | — | — |
 
 ### 2024
 
