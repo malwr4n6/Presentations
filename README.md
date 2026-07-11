@@ -9,13 +9,13 @@ Public archive of talks delivered at security conferences. All materials are sha
 ### 2026
 
 | Conference | Title | Co-presenter | Recording | Slides |
-|---|---|---|---|
+|---|---|---|---|---|
 | [Black Hat Asia 2026](https://blackhat.com/asia-26/briefings/schedule/#the-curious-case-about-apple-and-its-intelligence-on-demand-only-50679) | The Curious Case About Apple and Its Intelligence | Debasis Parida | — | — |
 
 ### 2025
 
 | Conference | Title | Co-presenter | Recording | Slides |
-|---|---|---|---|
+|---|---|---|---|---|
 | [Black Hat MEA 2025](https://blackhatmea.com/speaker/bhargav-rathod) | Investigating macOS Ransomware | Rohit Mukherjee (Microsoft) | — | [PDF](2025/2025_BlackHat-MEA_Investigating-macOS-Ransomware.pdf) |
 | [NullCon Goa 2025](https://nullcon.net/talk/macos-lockdown-mode-a-forensic-deep-dive/) | macOS Lockdown Mode: A Forensic Deep Dive | — | [YouTube](https://www.youtube.com/watch?v=UaNXEad-CPQ) | [PDF](2025/2025_NullCon_macOS-Lockdown-Mode-Forensic-Deep-Dive.pdf) |
 | [SANS DFIR Summit 2025](https://www.sans.org/presentations/macos-lockdown-mode) | macOS Lockdown Mode: A DFIR Odyssey | — | [YouTube](https://www.youtube.com/watch?v=qw50_vTUD5I) | [PDF](2025/2025_SANS-DFIR-Summit_macOS-Lockdown-Mode-DFIR-Odyssey.pdf) |
@@ -31,7 +31,7 @@ Public archive of talks delivered at security conferences. All materials are sha
 ### 2023
 
 | Conference | Title | Co-presenter | Recording | Slides |
-|---|---|---|---|
+|---|---|---|---|---|
 | [SANS DFIR Summit 2023](https://www.sans.org/presentations/investigating-a-wsa-endpoint) | Investigating a WSA Endpoint | Debasis Parida | [YouTube](https://www.youtube.com/watch?v=obdM90cu_sc) | [PDF](2023/2023_SANS-DFIR-Summit_Investigating-WSA-Endpoint.pdf) |
 
 ---
@@ -43,7 +43,6 @@ Public archive of talks delivered at security conferences. All materials are sha
 | 2025 | [WiCyS India — Kristu Jayanti College, Bangalore](https://www.linkedin.com/posts/wicys-india-affiliate_wicysstudentchapter-kristujayanticollege-activity-7349487218694000640-6nfd) | Mentor — WiCyS Student Chapter Mentorship Program (6-month) |
 | 2025 | [Industry Connect Program, School of Computer Science & IT, Uttarakhand Open University, Haldwani](https://uou.ac.in/sites/default/files/workshop-2025/Industry-Connect-2025.pdf) | How to Stay Up-to-Date & Relevant in Cybersecurity |
 | 2025 | One-week DFIR Training Program, Rashtriya Raksha University — Pasighat Campus | Overview of Digital Forensics |
-
 
 ---
 
