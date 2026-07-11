@@ -26,6 +26,7 @@ Public archive of talks delivered at security conferences. All materials are sha
 | Conference | Title | Co-presenter | Recording | Slides |
 |---|---|---|---|---|
 | [BSides Ahmedabad 2024](https://bsides-2024.netlify.app/#speaker) | Crack Me If You Can: Exposing Fault Lines in Digital Forensic Software Security | — | [YouTube](https://www.youtube.com/watch?v=ycvw4QUEzWs) | [PDF](2024/2024_BSides-Ahmedabad_Crack-Me-If-You-Can-Exposing-Fault-Lines-in-Digital-Forensic-Software-Security.pdf) |
+| [null Hyderabad Monthly Meet — Mar 2024](https://null.community/event_sessions/4191-macos-forensics-and-malware-analysis-demystified) | macOS Forensics and Malware Analysis Demystified | — | — | — |
 
 ### 2023
 
