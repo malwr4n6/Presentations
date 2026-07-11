@@ -36,6 +36,16 @@ Public archive of talks delivered at security conferences. All materials are sha
 
 ---
 
+## Training & Guest Lectures
+
+| Year | Conference | Title | Co-presenter | Recording | Slides |
+|---|---|---|---|---|---|
+| 2025 | [WiCyS India — Kristu Jayanti College, Bangalore](https://www.linkedin.com/posts/wicys-india-affiliate_wicysstudentchapter-kristujayanticollege-activity-7349487218694000640-6nfd) | Mentor — WiCyS Student Chapter Mentorship Program (6-month) | — | — | — |
+| 2025 | One-week DFIR Training Program, Rashtriya Raksha University — Pasighat Campus | Overview of Digital Forensics | — | — | — |
+
+
+---
+
 ## License
 
 © Bhargav Rathod. All rights reserved. Content may not be reproduced or redistributed without permission.
