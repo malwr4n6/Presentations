@@ -10,6 +10,7 @@ Public archive of talks delivered at security conferences. All materials are sha
 
 | Conference | Title | Co-presenter | Recording | Slides |
 |---|---|---|---|---|
+| BSides Ahmedabad 2026 | Apple Intelligence Exposed: Reverse Engineering the AI Assistant | — | — | [PDF](2026/2026_BSides-Ahmedabad_Apple-Intelligence-Exposed-Reverse-Engineering-the-AI-Assistant.pdf) |
 | [Black Hat Asia 2026](https://blackhat.com/asia-26/briefings/schedule/#the-curious-case-about-apple-and-its-intelligence-on-demand-only-50679) | The Curious Case About Apple and Its Intelligence | Debasis Parida | — | — |
 
 ### 2025
